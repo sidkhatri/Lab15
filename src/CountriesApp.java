@@ -2,7 +2,7 @@
  * Alexander Cyr, Siddique Khatri, Tim Johnson
  * Grand Circus
  * Lab 15 
- * Viewing and adding to a list of countries
+ * Viewing and adding to a list of countries by reading from and writing to a text file
  * 11/7/17
  */
 
